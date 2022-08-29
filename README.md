@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=horpeazy&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=horpeazy&&show_icons=true&theme=radical&line_height=27&v=5" alt="Iyamu Hope Github's Stats" /> -->
 
 <br/>
 
