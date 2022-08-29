@@ -27,7 +27,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horpeazy&theme=buefy&layout=compact" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Neel2904&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=horpeazy&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
 <br/>
 
