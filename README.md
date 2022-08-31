@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- <h2> Hey there! I'm Hope.</h2> -->
+<h2> Hey there! I'm Hope.</h2>
 
 <img src='https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png' alt='icon-img'/>
-<h2> Hey there! I'm Hope.</h2>
+<!-- <h2> Hey there! I'm Hope.</h2> -->
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
