@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 <h2> Hey there! I'm Hope.</h2>
 
+<img src='https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png' alt='icon-img'/>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Detailed oreiented Software Engineer, with a passion for solving problems and building functional, user-centered and software.
