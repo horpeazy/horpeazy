@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Detailed oreiented Software Engineer, with a passion for solving problems and building functional, user-centered and software.
+- 🤔 &nbsp; Detailed oriented Software Engineer, with a passion for solving problems and building functional, user-centered and software.
 - 🎓 &nbsp; B.Eng in Mechanical Engineering.
-- 🌱 &nbsp; Currently undergoing a Software Engineering Programme at ALX.
 
-<a href="https://github.com/thevictorwhyte">
+<a href="https://github.com/horpeazy">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=horpeazy&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horpeazy&theme=buefy&layout=compact" />
 </a>
