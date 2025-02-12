@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Detailed oriented Software Engineer, with a passion for solving problems and building functional, user-centered and software.
+- 🤔 &nbsp; Detailed oriented Software Engineer, with a passion for solving problems and building functional, user-centered software.
 - 🎓 &nbsp; B.Eng in Mechanical Engineering.
 
 <a href="https://github.com/horpeazy">
