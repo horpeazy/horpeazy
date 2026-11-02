@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Detailed oriented Software Engineer, with a passion for solving problems and building functional, user-centered software.
 - 🎓 &nbsp; B.Eng in Mechanical Engineering.
-- - 🎓 &nbsp; M.sc in Artificial Intelligence (In View).
+- 🎓 &nbsp; M.sc in Artificial Intelligence (In View).
 
 <a href="https://github.com/horpeazy">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=horpeazy&theme=buefy&show_icons=true" /> -->
